@@ -8,6 +8,18 @@
 > 
 > Screenshots of the original site can be found in the [screenshots folder](./screenshots).
 
+**Index:**
+
+1. [The Basic Layout Of an Espresso machine with a 3-Way Valve](#the-basic-layout-of-an-espresso-machine-with-a-3-way-valve)
+2. [The Boiler is Full](#the-boiler-is-full)
+3. [Brewing Espresso](#brewing-espresso)
+4. [Overpressure](#overpressure)
+5. [End of Brew Cycle](#end-of-brew-cycle)
+6. [Where the Dirt Hides](#where-the-dirt-hides)
+7. [Backflushing - Part 1](#backflushing---part-1)
+8. [Backflushing - Part 2](#backflushing---part-2)
+9. [Whoops](#whoops)
+
 ## The Basic Layout Of an Espresso machine with a 3-Way Valve
 
 ![](./1.gif)
